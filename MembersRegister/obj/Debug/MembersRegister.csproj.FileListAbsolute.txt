@@ -1,0 +1,12 @@
+C:\Users\fabio.leardini\Desktop\Projects\MembersRegister\MembersRegister\bin\Debug\MembersRegister.exe
+C:\Users\fabio.leardini\Desktop\Projects\MembersRegister\MembersRegister\bin\Debug\MembersRegister.pdb
+C:\Users\fabio.leardini\Desktop\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.csprojResolveAssemblyReference.cache
+C:\Users\fabio.leardini\Desktop\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.Main.resources
+C:\Users\fabio.leardini\Desktop\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.Properties.Resources.resources
+C:\Users\fabio.leardini\Desktop\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.csproj.GenerateResource.Cache
+C:\Users\fabio.leardini\Desktop\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.exe
+C:\Users\fabio.leardini\Desktop\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.pdb
+I:\SML\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.exe
+I:\SML\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.pdb
+F:\SML\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.exe
+F:\SML\Projects\MembersRegister\MembersRegister\obj\Debug\MembersRegister.pdb
